@@ -1,0 +1,6 @@
+stg/
+prd/
+dev/
+lcl/
+
+*.ignore.*
